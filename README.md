@@ -7,6 +7,6 @@ I’m a Enterprise Resource Planningt (ERP) Developer. I am proficient in develo
 - 🌍 I'm based in Vietnamese
 - 🖥️ See my portfolio at [hieunqdev](http://github.com/hieunqdev)
 - ✉️ You can contact me at [hieunqdev@gmail.com](mailto:hieunqdev@gmail.com)
-- 🚀 I'm currently working on [Magenest](http://magenest.com/vi/)
+- 🚀 I'm currently working on [Magenest](http://magenest.com/en/)
 
 **Thank you very much for your time. I hope the best of luck will come to you. Wish you achieve the goals that you have set.**

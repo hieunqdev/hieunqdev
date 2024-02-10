@@ -1,4 +1,4 @@
-# Hi, I'm Nguyen Quang Hieu 👨🏻‍💻
+# Hi, I'm Hieu 👨🏻‍💻
 
 <!-- <img src="images/cover_profile.jpg" height="518px"> -->
 

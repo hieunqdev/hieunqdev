@@ -12,8 +12,8 @@ Software Developer with almost 2 years of working experience in IT. My goal is t
 - Linux
 - Git
 
-🌍 I'm based in Vietnamese \\
-🖥️ See my portfolio at [hieunqdev](https://www.linkedin.com/in/hieu-nguyen-2070962b3/) \\ 
-✉️ You can contact me at [hieunqdev@gmail.com](mailto:hieunqdev@gmail.com) \\ 
+🌍 I'm based in Vietnamese \n
+🖥️ See my portfolio at [hieunqdev](https://www.linkedin.com/in/hieu-nguyen-2070962b3/) \n
+✉️ You can contact me at [hieunqdev@gmail.com](mailto:hieunqdev@gmail.com) \n
 
 **Thank you very much for your time. I hope the best of luck will come to you. Wish you achieve the goals that you have set.**

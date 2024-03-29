@@ -6,7 +6,6 @@ Software Developer with almost 2 years of working experience in IT. My goal is t
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
 - Python, Django, Django REST framework, Flask, Odoo
-- C#, Entity Framework, ASP.NET Core MVC, Web API
 - Javascript, jQuery, Ajax, React, OWL
 - Java Android
 - SQL Server, MySQL, PostgreSQL

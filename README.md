@@ -5,9 +5,9 @@
 Software Developer with almost 2 years of working experience in IT. My goal is to become Senior Developer in 3 years, after 5 years becoming Tech Lead.
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
-- Python, Django, Django REST framework, Flask, Odoo
-- Javascript, jQuery, Ajax, React, OWL
-- Java Android
+- C#, Entity Framework, ASP.NET Core MVC, Web API
+- Python, Django, Django REST framework, Odoo
+- HTML, CSS, Javascript, jQuery, OWL
 - SQL Server, MySQL, PostgreSQL
 - Linux
 - Git

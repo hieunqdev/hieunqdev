@@ -8,7 +8,7 @@ Software Developer with more than 2 years of working experience in IT. My goal i
 - C#, Entity Framework, ASP.NET Core MVC, Web API
 - Python, Django, Django REST framework, Odoo
 - Java, Android
-- HTML, CSS, Javascript, jQuery, Ajax, OWL
+- HTML, CSS, Javascript, jQuery, Ajax, React, OWL
 - SQL Server, MySQL, PostgreSQL
 - Nginx, Gunicorn, VPS
 - Linux, Ubuntu

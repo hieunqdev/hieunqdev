@@ -7,9 +7,11 @@ Software Developer with more than 2 years of working experience in IT. My goal i
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
 - C#, Entity Framework, ASP.NET Core MVC, Web API
 - Python, Django, Django REST framework, Odoo
-- HTML, CSS, Javascript, jQuery, OWL
+- Java, Android
+- HTML, CSS, Javascript, jQuery, Ajax, OWL
 - SQL Server, MySQL, PostgreSQL
-- Linux
+- Nginx, Gunicorn, VPS
+- Linux, Ubuntu
 - Git
 
 **Thank you very much for your time. I hope the best of luck will come to you. Wish you achieve the goals that you have set.**

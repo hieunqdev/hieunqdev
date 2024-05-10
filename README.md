@@ -2,7 +2,7 @@
 
 <!-- <img src="images/cover_profile.jpg" height="518px"> -->
 
-Software Developer with almost 2 years of working experience in IT. My goal is to become Senior Developer in 3 years, after 5 years becoming Tech Lead.
+Software Developer with more than 2 years of working experience in IT. My goal is to become Senior Developer in 3 years, after 5 years becoming Tech Lead.
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
 - C#, Entity Framework, ASP.NET Core MVC, Web API

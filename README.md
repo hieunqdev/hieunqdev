@@ -11,9 +11,9 @@ Software Developer with more than 3 years of working experience in IT. My goal i
 - ASP.NET Core MVC, Web API, Entity Framework
 - Django, Django REST framework, Flask, Flask RESTful, Odoo
 - Java, Android SDK, API integration
-- Bootstrap, jQuery, Ajax, Odoo Web Library
+- Bootstrap, jQuery, Ajax, Odoo Web Library, React, Angular
 
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬: PostgreSQL, MS SQL Server, MySQL
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦𝐬: PostgreSQL, MS SQL Server, MySQL, SQlite
 
 𝐎𝐭𝐡𝐞𝐫𝐬:
 - OOP methodologies, SOLID principles, and design patterns

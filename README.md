@@ -2,7 +2,7 @@
 
 <!-- <img src="images/cover_profile.jpg" height="518px"> -->
 
-Software Developer with more than 4 years of working experience in IT. My goal is to become Senior Developer in 1 years, after 3 years becoming Tech Lead.
+I'm a Software Developer with over 4 years of experience in the IT industry. My goal is to become a **Senior Developer within 1 year**, and a **Tech Lead within 3 years**.
 
 𝗛𝗮𝗿𝗱 𝘀𝗸𝗶𝗹𝗹𝘀:
 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C#, Python, Java, Javascript

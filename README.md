@@ -7,7 +7,7 @@ My goal is to become a **Senior Developer within 1 year**, and a **Tech Lead wit
 
 ---
 
-### 🛠️ Hard Skills
+### Hard Skills
 
 **Programming Languages:**  
 C#, Python, Java, JavaScript
